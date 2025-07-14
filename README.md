@@ -28,7 +28,7 @@ Previously:
 ![focus](https://img.shields.io/badge/Software_Engineer-brightgreen)
 ![living](https://img.shields.io/badge/Residence-Sydney-3c9)
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 ---
 
