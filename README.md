@@ -79,8 +79,8 @@ Previously:
 
 ## 💡 Fun Facts
 
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Caffeine can get you high!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The average IT professional spends more time troubleshooting Wi-Fi issues than drinking their morning coffee!
 - 🎤 Enjoy sharing knowledge at tech events and mentoring peers
 
 ---
@@ -88,8 +88,9 @@ Previously:
 ## 💻 Technology Stack
 
 <div align="center">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png" height="60" width="60">
+
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png" width="60" height="60"/>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
@@ -97,9 +98,8 @@ Previously:
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/node.jpeg" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png" width="60" height="60"/>
-<img src="https://img.icons8.com/color/452/mongodb.png" alt="" width="60">
+
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png" height="60" width="60">
 </div>
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
@@ -118,4 +118,4 @@ Previously:
 ---
 
 ### ⭐ Show some love by starring your favorite repos!  
-*Let’s connect, collaborate, and create something impactful together!*
+*Let’s connect, collaborate, and create something impactful together! MAIL ME on: abhinav.anand2308@gmail.com*
