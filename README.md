@@ -41,8 +41,6 @@ Previously:
 
 <!-- --- -->
  
----
-
 ## 🚀 What I'm Up To
 
 - 🌱 Currently deepening my expertise in AI/ML and Data Science projects.
