@@ -33,12 +33,11 @@ Previously:
 ---
 
 ## 💼 Experience Highlights
-
- **Tiger Analytics:** Developed and deployed Python/RShiny solutions for CPG clients, automated data flows, and delivered actionable insights through analytics dashboards.
- **Robert Bosch:** Engineered automation scripts, built server-powered UIs, and enhanced code analysis/reporting tools.
- **Power Grid Corporation of India:** Led cloud-based solutions for EV charging infrastructure; designed and tested RESTful APIs.
- **St. Vincent Private Hospital:** Streamlined inventory and IT operations, leveraging digital tools for efficiency.
- **RateGain:** Built algorithms for data cleaning, analytics, and system integration.
+ - **St. Vincent Private Hospital:** Streamlined inventory and IT operations, leveraging digital tools for efficiency.
+ - **Tiger Analytics:** Developed and deployed Python/RShiny solutions for CPG clients, automated data flows, and delivered actionable insights through analytics dashboards.
+ - **Robert Bosch:** Engineered automation scripts, built server-powered UIs, and enhanced code analysis/reporting tools.
+ - **Power Grid Corporation of India:** Led cloud-based solutions for EV charging infrastructure; designed and tested RESTful APIs.
+ - **RateGain:** Built algorithms for data cleaning, analytics, and system integration.
  
 ---
 
