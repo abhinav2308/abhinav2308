@@ -39,7 +39,6 @@ Previously:
  - **Power Grid Corporation of India:** Led cloud-based solutions for EV charging infrastructure; designed and tested RESTful APIs.
  - **RateGain:** Built algorithms for data cleaning, analytics, and system integration.
 
-<!-- --- -->
  
 ## 🚀 What I'm Up To
 
